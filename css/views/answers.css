@@ -1,0 +1,16 @@
+.correct-page,
+.wrong-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.correct-page {
+  background-color: var(--green-400);
+}
+
+.wrong-page {
+  background-color: var(--red-400);
+}
